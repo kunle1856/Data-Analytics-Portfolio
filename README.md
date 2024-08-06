@@ -39,6 +39,15 @@
 | The rising costs of medical care in the United States present a significant challenge for both healthcare providers and patients. Understanding the factors that influence these costs is essential for developing effective strategies to manage and reduce healthcare expenses. This analysis seeks to explore how various demographic and lifestyle variables, such as age, gender, BMI, smoking status, and region of residence, impact the cost of medical services. | ![Screenshot 2024-08-06 122218](https://github.com/user-attachments/assets/946edf42-ec11-43c9-a81c-d7cc5cc11711)|
 
 
+# Python Projects
+
+## [Project 6](https://github.com/kunle1856/Data-Analytics-Portfolio/tree/main/Excel): Detailed Healthcare Analysis with Python
+
+| Description | Preview |
+| ----------- | ----- |
+| This project aims to explore, clean, and visualize a simulated healthcare dataset to uncover trends in patient demographics, medical conditions, and service efficacy.  | ![Screenshot 2024-08-06 125852](https://github.com/user-attachments/assets/ac953e9c-9b41-4561-b343-c043c073a3b2)|
+
+
 
 
 
