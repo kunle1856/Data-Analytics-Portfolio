@@ -40,7 +40,7 @@ ORDER BY AvgChargeAge;
 SELECT
   ROUND(CORR(Age,charges),2) AS CORR_Age_Charges
 FROM `single-being-353600.Medical_Insurance_Data.Insurance_Data`;
--- Low correlation between age and charges 
+-- Inverse relationship between charges and age 
 ~~~
 
 **Result**
@@ -57,7 +57,7 @@ SELECT
 FROM `single-being-353600.Medical_Insurance_Data.Insurance_Data`
 GROUP BY Charge_Bin
 ORDER BY Charge_Bin;
---Right skew of distribution
+-- Distribution with a right skew
 ~~~
 
 **Result**
@@ -159,7 +159,7 @@ SELECT
 FROM `single-being-353600.Medical_Insurance_Data.Insurance_Data`
 WHERE smoker = true
 ORDER BY SmokerRegionCount;
---Southwest has the least amount of smokers
+The region with the fewest smokers is the Southwest.
 ~~~
 
 **Result**
@@ -189,7 +189,7 @@ GROUP BY Smoker;
 /*Comparing charges for smokers to non-smokers*/
 SELECT
   ROUND(32050.23/8434.27);
---smoking accounts for an average cost that is about four times greater than a non-smoker
+-- The average expense of a smoker is approximately four times more than that of a non-smoker.
 ~~~
 
 **Result**
@@ -206,7 +206,8 @@ SELECT
 FROM `single-being-353600.Medical_Insurance_Data.Insurance_Data`
 WHERE smoker = true
 ORDER BY SmokerRegionCount;
---Southwest has lowest number of female smokers
+-- The least amount of female smokers is in the Southwest.
+
 ~~~
 
 **Result**
