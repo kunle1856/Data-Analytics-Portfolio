@@ -23,5 +23,26 @@
 | Identify and implement performance improvements at the practice/provider level using data from the provided workbook. Develop a data presentation to highlight these opportunities and secure support for action.  | ![Dashboard 2](https://github.com/user-attachments/assets/78c99b5a-31fa-48b0-bf99-daf874fa456f)|
 
 
+# SQL & Data Studio Projects
+
+## [Project 4](https://github.com/kunle1856/Data-Analytics-Portfolio/tree/main/SQL): Cyclistic bike-share company Analysis
+
+| Description | Preview |
+| ----------- | ----- |
+| Analyze and visualize data to understand how annual members and casual riders use Cyclistic bikes differently. | ![Screenshot 2024-08-06 114442](https://github.com/user-attachments/assets/801cf369-7225-4374-a97f-4efef6cbf008)|
+
+
+## [Project 5](https://github.com/kunle1856/Data-Analytics-Portfolio/tree/main/SQL/Medical%20Cost%20Analysis): Medical Cost Optimization Analysis
+
+| Description | Preview |
+| ----------- | ----- |
+| The rising costs of medical care in the United States present a significant challenge for both healthcare providers and patients. Understanding the factors that influence these costs is essential for developing effective strategies to manage and reduce healthcare expenses. This analysis seeks to explore how various demographic and lifestyle variables, such as age, gender, BMI, smoking status, and region of residence, impact the cost of medical services. | ![Screenshot 2024-08-06 122218](https://github.com/user-attachments/assets/946edf42-ec11-43c9-a81c-d7cc5cc11711)|
+
+
+
+
+
+
+
 
 
