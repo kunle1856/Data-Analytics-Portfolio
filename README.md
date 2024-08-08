@@ -11,7 +11,8 @@
 
 | Description | Preview |
 | ----------- | ----- |
-| Long-standing participant in India's upscale hospitality industry inde Hotel is seeing revenue and market share decline as a result of subpar management choices and intense competition. Despite the lack of an internal data analytics team, the managing director plans to use business and data intelligence to reclaim their position.  | ![Inde Hotel Room Hospitalities Dashboard - Power BI Desktop 8_6_2024 7_38_18 AM](https://github.com/user-attachments/assets/f4cc688f-8543-419c-a384-0e83b12b5c31)|
+| Long-standing participant in India's upscale hospitality industry inde Hotel is seeing revenue and market share decline as a result of subpar management choices and intense competition. Despite the lack of an internal data analytics team, the managing director plans to use business and data intelligence to reclaim their position.  | ![The Hotel Room Hospitalities Dashboard (1) - Power BI Desktop 8_8_2024 9_19_02 PM](https://github.com/user-attachments/assets/cf1460b1-e11d-4b3c-a210-dafc7d42810f)|
+
 
 
 # Excel Projects
